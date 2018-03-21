@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 2E13-D476
+
+ Directory of E:\gitHub
+
+21/03/2018  05:47 PM    <DIR>          .
+21/03/2018  05:47 PM    <DIR>          ..
+21/03/2018  05:48 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,852,877,824 bytes free
